@@ -2,7 +2,7 @@
 
 ProFormaJava has Java utility classes that parse strings to produce a ProForma string. 
 
-## Usage
+## Usage Examples
 
 ```java
 # returns 'SGRGKQGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTESHHKAKGK'
